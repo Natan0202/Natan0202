@@ -1,11 +1,16 @@
-- 👋 Olá, me chamo Natan - Seja bem vindo(a) ao meu Perfil!
+Hello World👨🏽‍💻
+Olá , sou Natan
+Um desenvolvedor Back-End, amo tecnologia desde de pequeno.
+🙋‍♂️ Sobre mim
+🔭 Me chamo Natan, nasci e moro no Rio de Janeiro.
 
 
-Aqui eu salvo os códigos cujo eu vejo que me ajudam a evoluir na área dos meus estudos. Estão disponíves códigos de: <br> -<h3> Pyhton, PHP, SQL </h3> <br> Também tem para Web <br> -<h3>HTML, CSS e JavaScript! </h3> :computer:
+👨‍💻 Sou um desenvolvedor Back-End, que está se formando em Análise de Sistemas e que está direncionando a vida para Análise de Dados 
 
-Ainda tenho muito o que aprender, espero que o contéudo que tem aqui possa ajudar :smile:
+📫Entre em Contato! natanmenezessiqueira13@hotmail.com
 
-Minha rede social: 
+⚡ Curiosidades Amo ler, meu autor favorito é George Orwell e o melhor livro que li até hoje é, Dom Casmurro de Machado de Assis.
+
 [![Linkedin Badge](https://img.shields.io/badge/-Natan%20Menezes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natan-siqueira-319b55164//)](https://www.linkedin.com/in/natan-siqueira-319b55164/) 
 
 
