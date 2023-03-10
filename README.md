@@ -6,11 +6,11 @@ Um desenvolvedor Back-End, amo tecnologia desde de pequeno.
 <h3>🔭 Me chamo Natan, nasci e moro no Rio de Janeiro.</h3>
 
 
-👨‍💻 Sou um desenvolvedor Back-End, que está se formando em Análise de Sistemas e que está direncionando a vida para Análise de Dados 
+<h3>👨‍💻 Sou um desenvolvedor Back-End, que está se formando em Análise de Sistemas e que está direncionando a vida para Análise de Dados</h3>
 
-📫Entre em Contato! natanmenezessiqueira13@hotmail.com
+<h3>📫Entre em Contato! natanmenezessiqueira13@hotmail.com</h3>
 
-⚡ Curiosidades Amo ler, meu autor favorito é George Orwell e o melhor livro que li até hoje é, Dom Casmurro de Machado de Assis.
+<h3>⚡ Curiosidades Amo ler, meu autor favorito é George Orwell e o melhor livro que li até hoje é, Dom Casmurro de Machado de Assis.</h3>
 
 
 
