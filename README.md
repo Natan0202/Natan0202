@@ -1,6 +1,6 @@
 <h1>Hello World👨🏽‍💻</h1>
 Olá , sou Natan
-Um desenvolvedor Back-End, amo tecnologia desde de pequeno.
+Um desenvolvedor Back-End, amo tecnologia desde de pequeno. Hoje me encontro mergulhado em Programação, no último ano do meu Técnico, fui despertado para o lado bonito da programação. Vejo que tenho muito aprender e acrescentar, estou ciente que não irei mudar o mundo, porém consigo impactar as pessoas em minha volta.
 <h2>🙋‍♂️ Sobre mim</h2>
 
 <h3>🔭 Me chamo Natan, nasci e moro no Rio de Janeiro.</h3>
