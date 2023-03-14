@@ -12,7 +12,7 @@ Um desenvolvedor Back-End, amo tecnologia desde de pequeno. Hoje me encontro mer
 
 <h3>⚡ Curiosidades Amo ler, meu autor favorito é George Orwell e o melhor livro que li até hoje é, Dom Casmurro de Machado de Assis.</h3>
 
-
+<h3>👨‍ Linguagens que me abraçam e que amo codar: Python - PHP - SQL - JavaScript</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Natan%20Menezes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natan-siqueira-319b55164//)](https://www.linkedin.com/in/natan-siqueira-319b55164/) 
 
