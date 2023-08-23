@@ -20,7 +20,7 @@ Um desenvolvedor Back-End, amo tecnologia desde de pequeno. Hoje me encontro mer
 <img width="100" height="100" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg">
 <img width="100" height="100" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"> 
 <img width="100" height="100" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"> 
-<div> - 
+<div>
   
   </h3>
 
