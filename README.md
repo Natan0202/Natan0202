@@ -12,7 +12,7 @@ Um desenvolvedor Back-End, amo tecnologia desde de pequeno. Hoje me encontro mer
 
 <h3>⚡ Curiosidades Amo ler, meu autor favorito é George Orwell e o melhor livro que li até hoje é, Dom Casmurro de Machado de Assis.</h3>
 
-<h3>👨‍ Linguagens que me abraçam e que amo codar: https://www.python.org/static/community_logos/python-logo-generic.svg - PHP - SQL - <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<h3>👨‍ Linguagens que me abraçam e que amo codar: <img src="https://www.python.org/static/community_logos/python-logo-generic.svg"> - PHP - SQL - <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   </h3>
 
 <h2>Estou aprendendo: <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></h2>
